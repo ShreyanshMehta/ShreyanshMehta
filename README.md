@@ -15,7 +15,7 @@
 
 - 📄 Checkout my **<a href="https://drive.google.com/file/d/1Z5ZSay3FcTs9E1J5Afn3ts8YAFfslBmz/view?usp=sharing">Résumé</a>**
 
-- ⚡ Fun fact **I am a weeb.**
+- ⚡ Fun fact **I may seem to be a nerd, but I'm not. 🌚😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
