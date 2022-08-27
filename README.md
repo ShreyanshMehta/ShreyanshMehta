@@ -1,8 +1,8 @@
-[![MasterHead](developer.gif)]()
+[![MasterHead](dev.gif)]()
 <h1 align="center">Hi 👋, I'm Shreyansh Mehta</h1>
 <h3 align="center">A passionate full stack developer and competitive programmer from India</h3>
 
-<img align="right" alt="image" width="350" src="profile-image.gif">
+<img align="right" alt="image" width="330" src="profile-image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshmehta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshmehta" /> </p>
 
