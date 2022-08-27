@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshmehta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshmehta" /> </p>
 
-- 🔭 I’m currently working on **Cloud Native Applications**
+- 🔭 I’m currently working on **Cloud Native Applications.**
 
 - 🌱 I’m currently learning **Kubernetes, Docker and Go.**
 
