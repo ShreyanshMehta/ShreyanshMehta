@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Low-Level Design, Code Optimization, Data Structure and Algorithms.**
 
-- 📫 How to reach me **shreyansh887121@gmail.com**
+- 📫 Email **<a href=shreyansh887121@gmail.com>me</a>.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z5ZSay3FcTs9E1J5Afn3ts8YAFfslBmz/view?usp=sharing](https://drive.google.com/file/d/1Z5ZSay3FcTs9E1J5Afn3ts8YAFfslBmz/view?usp=sharing)
+- 📄 Checkout my **<a href="https://drive.google.com/file/d/1Z5ZSay3FcTs9E1J5Afn3ts8YAFfslBmz/view?usp=sharing">Résumé</a>**
 
 - ⚡ Fun fact **I am a weeb.**
 
