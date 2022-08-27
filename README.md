@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](timthumb.jpg)
 <h1 align="center">Hi 👋, I'm Shreyansh Mehta</h1>
 <h3 align="center">A passionate full stack developer and competitive programmer from India</h3>
 
