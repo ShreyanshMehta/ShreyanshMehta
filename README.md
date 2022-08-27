@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Mehta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshmehta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshmehta" /> </p>
 
@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/machone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="machone" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mehtaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehtaji" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mehtaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehtaji" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mehtaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mehtaji" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mehtaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mehtaji" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/machone/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="machone/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mehtaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mehtaji" height="30" width="40" /></a>
 </p>
